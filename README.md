@@ -6,6 +6,7 @@ Installs all the node modules.
 
 **npm run start**
 Runs the app in the development mode.
+NOTE: Use node 18
 
 
 # Tech stacks used
